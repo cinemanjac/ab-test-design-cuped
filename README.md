@@ -19,7 +19,6 @@ The experiment design includes:
   and used to estimate required sample size.
 
 - **Duration Estimation**
-  
   Sample size is converted into experiment duration using historical traffic.
 
 - **Validation**  
@@ -39,7 +38,7 @@ The experiment design includes:
 - **Programming:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Tqdm)
 - **Statistical Methods:** Pearson Correlation, CUPED, Monte Carlo Simulations, T-test
 
-
+&nbsp;
 
 This project focuses on experiment design and validation before launch.
 Post-experiment analysis is intentionally out of scope.
